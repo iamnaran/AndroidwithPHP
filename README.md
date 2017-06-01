@@ -1,9 +1,10 @@
 # AndroidwithPHP
 
+Note : Change View Mode :)
+
 
 #DBCONNECT
 
-**
 
 <?php 
 
@@ -22,7 +23,6 @@
 
  ?>
  
- **
  
  #DBOPERATIONS
  
